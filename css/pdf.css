@@ -1,0 +1,12 @@
+body{
+	background: cyan;
+}
+.wrapper{
+	display: flex;
+	justify-content: space-between;
+}
+form{
+	border: 1px solid black;
+	width: 100px;
+	height: 200px;
+}
